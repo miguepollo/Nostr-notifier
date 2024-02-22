@@ -76,28 +76,20 @@ After programming, you will only need to setup your Wifi and Nostr Private Key.
 ### Project guidelines
 
 - Current project was adapted to work with PlatformIO
-- Current project works with ESP32-S3 and ESP32-wroom.
+- Current project works with ESP32-S3.
 - Partition squeme should be build as huge app
 - All libraries needed shown on platform.ini
 
 ### Job done
 
 - [x] Move project to platformIO
-- [x] Bug rectangle on screen when 1milion shares
 - [x] Bug memory leaks
 - [x] Bug Reboots when received JSON contains some null values
 - [x] Implement midstate sha256
 - [x] Bug Wificlient DNS unresolved on Wifi.h
 - [x] Code refactoring
-- [x] Add blockHeight to screen
 - [x] Add clock to show current time
-- [x] Add new screen with global mining stats
-- [x] Add pool support for low difficulty miners
-- [x] Add best difficulty on miner screen
-- [x] Add suport to standard ESP32 dev-kit / ESP32-WROOM
-- [x] Code changes to support adding multiple boards
 - [x] Add support to TTGO T-display 1.14
-- [x] Add support to Amoled
 
 ### In process
 

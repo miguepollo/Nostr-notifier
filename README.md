@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/github/last-commit/miguepollo/Nostr-notifier.svg?style=for-the-badge" />
+
 # NostrNotifier
 
 **The NostrNotifier **

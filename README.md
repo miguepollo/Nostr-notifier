@@ -1,6 +1,8 @@
+# NostrNotifier
+
+
 <img src="https://img.shields.io/github/last-commit/miguepollo/Nostr-notifier.svg?style=for-the-badge" />
 <img src="https://img.shields.io/github/commit-activity/m/miguepollo/Nostr-notifier?style=for-the-badge" />
-# NostrNotifier
 
 **The NostrNotifier **
 

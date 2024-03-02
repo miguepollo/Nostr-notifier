@@ -89,16 +89,12 @@ After programming, you will only need to setup your Wifi and Nostr Private Key.
 - [x] Move project to platformIO
 - [x] Bug memory leaks
 - [x] Bug Reboots when received JSON contains some null values
-- [x] Implement midstate sha256
 - [x] Bug Wificlient DNS unresolved on Wifi.h
 - [x] Code refactoring
 - [x] Add clock to show current time
 - [x] Add support to TTGO T-display 1.14
 
 ### In process
-
-- [ ] Create a daisy chain protocol via UART or I2C to support ESP32 hashboards
-- [ ] Create new screen like clockMiner but with BTC price
 - [ ] Add support to control BM1397
 - [ ] Add password field in web configuration form
 

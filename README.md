@@ -36,7 +36,7 @@ Hablar de las screens
 
 #### Current Supported Boards
 
-- LILYGO T-Display S3 ([Aliexpress link\*](https://es.aliexpress.com/item/1005004496543314.html?spm=a2g0o.productlist.main.1.4f89496ebOIeVi&algo_pvid=089ba2e2-0e69-4d7b-ba28-b789feed3606&utparam-url=scene%3Asearch%7Cquery_from%3A))
+- LILYGO T-Display S3 ([Aliexpress link\*](https://es.aliexpress.com/item/1005004496543314.html?spm=a2g0o.productlist.main.3.8255XScrXScr5V&algo_pvid=cf5b8699-f425-4f5f-bca3-009f6c21061d&utparam-url=scene%3Asearch%7Cquery_from%3A&gatewayAdapt=glo2esp))
 
 ### Flash firmware
 

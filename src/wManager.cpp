@@ -14,6 +14,8 @@
 #include "drivers/storage/nvMemory.h"
 #include "drivers/storage/storage.h"
 
+#include "Nostr.h"
+#include <string.h>
 
 // Flag for saving data
 bool shouldSaveConfig = false;
